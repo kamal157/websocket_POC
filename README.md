@@ -1,2 +1,2 @@
 # websocket_POC
-A simple runtime to demo Websockets
+A simple runtime Demo for Websockets
